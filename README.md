@@ -96,7 +96,7 @@ Module Details:
     ```
 5. Testing the Model  
      
-    Click [download weight files in the paper](https://pan.baidu.com/s/1-kBb022H7sutvknBv9JgGw?pwd=1234) (Unzip the downloaded compressed package to the root directory of the project)
+    Click [download weight files in the paper](https://pan.baidu.com/s/1-kBb022H7sutvknBv9JgGw?pwd=1234) (Unzip the downloaded package to the root directory of the project)
     
     The default dataset is IRSTD-1K. If you need to test the weight file under other datasets, please modify the corresponding dataset path and weight file path.<br>
     (If you want to train NUDT-SIRST, please note that the parameter IMAGE_SIZE in the training file needs to be changed to 256.)
