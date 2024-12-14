@@ -152,7 +152,7 @@ BibTeX reference is as follows.
 
 word reference is as follows.
 ```
-Jinmiao Zhao, Zelin Shi, CHuang Yu, and Yunpeng Liu. Multi-Scale Direction-Aware Network for Infrared Small Target Detection. arXiv preprint arXiv:2406.02037, 2024.
+Jinmiao Zhao, Zelin Shi, Chuang Yu, and Yunpeng Liu. Multi-Scale Direction-Aware Network for Infrared Small Target Detection. arXiv preprint arXiv:2406.02037, 2024.
 ```
 
 ## Other link
