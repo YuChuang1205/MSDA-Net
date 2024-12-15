@@ -155,7 +155,7 @@ word reference is as follows.
 Jinmiao Zhao, Zelin Shi, Chuang Yu, and Yunpeng Liu. Multi-Scale Direction-Aware Network for Infrared Small Target Detection. arXiv preprint arXiv:2406.02037, 2024.
 ```
 
-## Other link
+## Other link 
 
 1. My homepage: [[YuChuang](https://github.com/YuChuang1205)]
 2. "Refined-IRSTD-Scheme-with-Single-Point-Supervision" demo: [[Link](https://github.com/YuChuang1205/Refined-IRSTD-Scheme-with-Single-Point-Supervision)]
