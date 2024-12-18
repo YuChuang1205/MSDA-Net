@@ -159,4 +159,5 @@ Jinmiao Zhao, Zelin Shi, Chuang Yu, and Yunpeng Liu. Multi-Scale Direction-Aware
 
 1. My homepage: [[YuChuang](https://github.com/YuChuang1205)]
 2. "Refined-IRSTD-Scheme-with-Single-Point-Supervision" demo: [[Link](https://github.com/YuChuang1205/Refined-IRSTD-Scheme-with-Single-Point-Supervision)]
+3. "PAL Framework" demo：[[Link](https://github.com/YuChuang1205/PAL)]
 
