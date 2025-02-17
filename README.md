@@ -6,7 +6,7 @@ and **MSDA-Net** [[Paper/arXiv](https://arxiv.org/abs/2406.02037)]. For details,
 
 2. It is worth mentioning that **our solution based on MSDA-Net** won ***the first prize*** in **the PRCV2024 Wide-area Infrared Small Target Detection Challenge**
 
-3. Everyone is welcome to follow our new work [[**PAL Framework**](https://github.com/YuChuang1205/PAL)] on the task of *"Infrared small target detection with single point supervision"*. On this task, equipped with our proposed "PAL Framework", MSDA-Net still has SOTA performance.  
+3. Everyone is welcome to follow our new work [[**PAL Framework**](https://github.com/YuChuang1205/PAL)] on the task of *"Infrared small target detection with single point supervision"*. On this task, equipped with our proposed "PAL Framework", MSDA-Net also has SOTA performance. For more details, please click on the [[link](https://github.com/YuChuang1205/PAL)].
 
 ## Overview
 
