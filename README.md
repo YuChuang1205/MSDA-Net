@@ -161,5 +161,6 @@ Jinmiao Zhao, Zelin Shi, Chuang Yu, and Yunpeng Liu. Multi-Scale Direction-Aware
 ## Other link 
 
 1. My homepage: [[YuChuang](https://github.com/YuChuang1205)]
-2. My "PAL Framework" project code (ICCV2025)：[[Link](https://github.com/YuChuang1205/PAL)] 
+2. My "PAL Framework" project code (ICCV2025)：[[Link](https://github.com/YuChuang1205/PAL)]
+3. My latest "FDEP Framework" project code: [[Link](https://github.com/YuChuang1205/FDEP-Framework)]
  
