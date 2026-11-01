@@ -10,6 +10,15 @@ and **MSDA-Net** [[Paper/arXiv](https://arxiv.org/abs/2406.02037)]. For details,
 
 4. !!! We strongly recommend using our integrated framework [[**PAL Framework**](https://github.com/YuChuang1205/PAL)], which **incorporates multiple networks, including MSDA-Net, and allows convenient switching between different supervision paradigms (Full supervision and Single point supervision) as well as multiple datasets  (SIRST, NUDT-SIRST, IRSTD-1k and SIRST3)**. In addition, compared with this released codebase that resizes training images to a fixed resolution, the PAL framework adopts a cropping strategy with a patch size of 256×256 pixels. Extensive empirical evaluations demonstrate that **the PAL framework provides a more reasonable basic training framework and consistently achieves superior performance**.
 
+<p align="center">
+  <a href="https://github.com/YuChuang1205/PAL"><strong>欢迎点击了解我发表在 ICCV2025 上的 PAL Framework 工作</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YuChuang1205/FDEP-Framework"><strong>欢迎点击了解我最新发表在 NeurIPS2026 上的 FDEP Framework 工作</strong></a>
+</p>
+
+
 
 ## Overview
 
