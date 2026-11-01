@@ -1,5 +1,14 @@
 ## The official complete code for paper "Multi-Scale Direction-Aware Network for Infrared Small Target Detection" [[Paper](https://arxiv.org/abs/2406.02037)] [[知乎](https://zhuanlan.zhihu.com/p/1979260996741788532)] [Accepted by TGRS2025]
 
+<p align="center">
+  <a href="https://github.com/YuChuang1205/PAL"><strong>欢迎点击了解我发表在 ICCV2025 上的 PAL Framework 工作</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YuChuang1205/FDEP-Framework"><strong>欢迎点击了解我最新发表在 NeurIPS2026 上的 FDEP Framework 工作</strong></a>
+</p>
+
+
 1. This code integrates a series of infrared small target detection networks we built: **MLCL-Net** [[paper](https://doi.org/10.1016/j.infrared.2022.104107)],
 **ALCL-Net** [[paper](https://ieeexplore.ieee.org/document/9785618)], **GGL-Net** [[paper](https://ieeexplore.ieee.org/abstract/document/10230271)]
 and **MSDA-Net** [[Paper/arXiv](https://arxiv.org/abs/2406.02037)]. For details, please see the "model" folder.    
@@ -9,15 +18,6 @@ and **MSDA-Net** [[Paper/arXiv](https://arxiv.org/abs/2406.02037)]. For details,
 3. Everyone is welcome to follow our new work [[**PAL Framework (ICCV2025)**](https://github.com/YuChuang1205/PAL)] on the task of *"Infrared small target detection with single point supervision"*. On the task of *"Infrared small target detection with single point supervision"*, equipped with our proposed "PAL Framework", MSDA-Net also has SOTA performance.
 
 4. !!! We strongly recommend using our integrated framework [[**PAL Framework**](https://github.com/YuChuang1205/PAL)], which **incorporates multiple networks, including MSDA-Net, and allows convenient switching between different supervision paradigms (Full supervision and Single point supervision) as well as multiple datasets  (SIRST, NUDT-SIRST, IRSTD-1k and SIRST3)**. In addition, compared with this released codebase that resizes training images to a fixed resolution, the PAL framework adopts a cropping strategy with a patch size of 256×256 pixels. Extensive empirical evaluations demonstrate that **the PAL framework provides a more reasonable basic training framework and consistently achieves superior performance**.
-
-<p align="center">
-  <a href="https://github.com/YuChuang1205/PAL"><strong>欢迎点击了解我发表在 ICCV2025 上的 PAL Framework 工作</strong></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YuChuang1205/FDEP-Framework"><strong>欢迎点击了解我最新发表在 NeurIPS2026 上的 FDEP Framework 工作</strong></a>
-</p>
-
 
 
 ## Overview
